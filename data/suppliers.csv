@@ -1,0 +1,16 @@
+supp_id,ingredient_uuid,cost_per_unit,unit_name,country_of_origin,total_tax_per_unit,time_to_deliver
+megacorp,cocoa,2500.00,tonne,ghana,14,12
+megacorp,milk_powder,3200.00,tonne,france,12,3
+megacorp,hazelnut,1918.00,tonne,turkey,12,4
+megacorp,sugar,457.00,tonne,brazil,5,9
+megacorp,vanilla,237.00,tonne,china,3,10
+omni_inc,cocoa,2400.00,tonne,cote d'ivoire,14,12
+omni_inc,milk_powder,3120.00,tonne,switzerland,0,2
+omni_inc,hazelnut,1925.00,tonne,italy,12,3
+omni_inc,sugar,465.00,tonne,india,5,12
+omni_inc,vanilla,201.00,tonne,indonesia,3,12
+acme_inc,cocoa,2370.00,tonne,indonesia,14,12
+acme_inc,milk_powder,3190.00,tonne,denmark,12,3
+acme_inc,hazelnut,1817.00,tonne,usa,12,8
+acme_inc,sugar,476.00,tonne,china,5,10
+acme_inc,vanilla,185.00,tonne,madagascar,3,12

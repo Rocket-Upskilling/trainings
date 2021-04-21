@@ -1,0 +1,6 @@
+uuid,mean_cost_per_unit,unit_name,mean_time_to_supply,cost_variance
+cocoa,2423.33,tonne,12,130
+milk_powder,3170.00,tonne,3,80
+hazelnut,1920.00,tonne,3,108
+sugar,466.00,tonne,10,19
+vanilla,207.00,tonne,11,52

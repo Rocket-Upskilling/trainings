@@ -1,0 +1,14 @@
+rec_id,ingredient_uuid,cost_to_process,time_to_process
+1,cocoa,0.2,120
+1,milk_powder,0.03,110
+1,hazelnut,0.08,45
+1,sugar,0.4,80
+2,vanilla,0.1,34
+2,cocoa,0.2,120
+2,milk_powder,0.03,110
+2,sugar,0.4,80
+3,hazelnut,0.08,45
+3,vanilla,0.1,34
+3,cocoa,0.2,120
+3,milk_powder,0.03,11
+3,sugar,0.4,80
