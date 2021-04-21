@@ -1,0 +1,11 @@
+name: trainings
+channels:
+  - defaults
+dependencies:
+  - pandas=1.2.4
+  - matplotlib=3.3.4
+  - numpy=1.19.2
+  - jupyter=1.0.0
+  - python=3.9
+  - ipython=7.22.0
+prefix: /Users/antonio/miniconda3/envs/trainings
