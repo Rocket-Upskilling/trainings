@@ -1,2 +1,3 @@
 # trainings
-Jupyter Notebooks for trainings
+
+Jupyter Notebooks for Kikodo Python trainings
