@@ -8,4 +8,5 @@ dependencies:
   - jupyter=1.0.0
   - python=3.9
   - ipython=7.22.0
+  - scikit-learn=0.24.1
 prefix: /Users/antonio/miniconda3/envs/trainings
